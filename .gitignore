@@ -7,6 +7,13 @@ dataset/
 encodings/
 database.db
 
+# ── ADD THESE ──────────────────────
+facetrack.db
+models/
+attendance.xlsx
+encodings.pic*
+# ───────────────────────────────────
+
 # OS
 .DS_Store
 Thumbs.db

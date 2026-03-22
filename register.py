@@ -14,7 +14,7 @@ face_cascade = cv2.CascadeClassifier(
 )
 
 count = 0
-MAX_IMAGES = 15
+MAX_IMAGES = 20
 
 print("Press 's' to save face | ESC to exit")
 
